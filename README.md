@@ -2,7 +2,7 @@
 Repositorio correspondiente a las actividades de análisis y pronóstico de series de tiempo.
 
 ## Grupo 5
-- Martín Naranjo Escobar
+- Martín Naranjo 
 - Edgar Ruiz
 - Sergio Aguilar
 
