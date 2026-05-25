@@ -5,5 +5,5 @@ Esta carpeta contiene:
   
 Integrantes:
 - Martín Naranjo
-- Erika Ruiz
+- Edgar Ruiz
 - Sergio Aguilar
