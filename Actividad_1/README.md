@@ -1,4 +1,4 @@
-# Actividad 1 - Pronósticos Ocupados
+# Actividad 1 - Moving Average
 Esta carpeta contiene:
 - Notebook de análisis y pronósticos
 - Informe final en PDF
