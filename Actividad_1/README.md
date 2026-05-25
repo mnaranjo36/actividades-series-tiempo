@@ -2,6 +2,7 @@
 Esta carpeta contiene:
 - Notebook de análisis y pronósticos
 - Informe final en PDF
+  
 Integrantes:
 - Martín Naranjo
 - Erika Ruiz
