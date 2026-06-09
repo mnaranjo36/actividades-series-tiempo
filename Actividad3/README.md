@@ -5,8 +5,9 @@ Esta carpeta contiene:
 -Informe final en PDF.
 
 Integrantes
-Martín Naranjo
-Edgar Ruiz
-Sergio Aguilar
+
+-Martín Naranjo
+-Edgar Ruiz
+-Sergio Aguilar
 
 
