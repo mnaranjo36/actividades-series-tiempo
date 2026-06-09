@@ -7,7 +7,9 @@ Esta carpeta contiene:
 Integrantes
 
 -Martín Naranjo
+
 -Edgar Ruiz
+
 -Sergio Aguilar
 
 
